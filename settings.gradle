@@ -1,0 +1,3 @@
+rootProject.name = 'payflow'
+
+include 'common', 'payment-service'
